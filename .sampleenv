@@ -1,0 +1,11 @@
+#Discord Secrets
+D_TOKEN=""
+D_CLIENT_ID="" 
+
+
+
+#Database Secrets
+MONGO_INITDB_DATABASE=""
+MONGO_INITDB_ROOT_USERNAME=""
+MONGO_INITDB_ROOT_PASSWORD=""
+
